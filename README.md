@@ -28,3 +28,7 @@ Relational database designed and populated manually.
 ## Tools
 - Power BI
 - SQL
+
+### Data Model
+![Data Model](screens/data_model.png)
+

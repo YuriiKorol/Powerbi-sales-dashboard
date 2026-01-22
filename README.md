@@ -29,13 +29,12 @@ Relational database designed and populated manually.
 - Power BI
 - SQL
 
-### Data Model
+### Below are links to screenshots of my dashboards:
 [Data Model](Screens/data_model.png)
 
-### Product Sales Dashboard
 [Product Sales](Screens/Product_Sales_Dashboard.png)
 
-### Customer Analysis
 [Customer Analysis](Screens/Customer_Analysis_Dashboard.png)
 
+[Yearly_Revenue_and_Avg](Screens/Yearly_Revenue_&_Average_Check.png)
 

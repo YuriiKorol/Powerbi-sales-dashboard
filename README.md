@@ -30,5 +30,5 @@ Relational database designed and populated manually.
 - SQL
 
 ### Data Model
-[Data Model](screens/data_model.png)
+[go](Screens/data_model.png)
 

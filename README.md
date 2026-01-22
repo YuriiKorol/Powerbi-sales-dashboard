@@ -33,9 +33,9 @@ Relational database designed and populated manually.
 [Data Model](Screens/data_model.png)
 
 ### Product Sales Dashboard
-[Product Sales](Screens/Product Sales Dashboard.png)
+[Product Sales](Screens/Product_Sales_Dashboard.png)
 
 ### Customer Analysis
-[Customer Analysis](Screens/Customer Analysis Dashboard.png)
+[Customer Analysis](Screens/Customer_Analysis_Dashboard.png)
 
 

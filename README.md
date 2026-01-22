@@ -25,7 +25,7 @@ Analyze sales performance, product demand, and identify products with zero sales
 Relational database designed and populated manually.
 
 ## Tools
-- Power BI [Sales_dashboard_2025](Sales_dashboard_2025.pbix)
+- Power BI [Sales_dashboard_2025.pbix](Sales_dashboard_2025.pbix)
 - SQL
 
 ### Below are links to screenshots of my dashboards:

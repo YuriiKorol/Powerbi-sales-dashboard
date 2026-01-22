@@ -30,5 +30,12 @@ Relational database designed and populated manually.
 - SQL
 
 ### Data Model
-[go](Screens/data_model.png)
+[Data Model](Screens/data_model.png)
+
+### Product Sales Dashboard
+[Product Sales](Screens/Product Sales Dashboard.png)
+
+### Customer Analysis
+[Customer Analysis](Screens/Customer Analysis Dashboard.png)
+
 

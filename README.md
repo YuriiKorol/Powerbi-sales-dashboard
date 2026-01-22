@@ -21,6 +21,7 @@ Analyze sales performance, product demand, and identify products with zero sales
 - Handling missing months
 - Zero-sales product detection
 - Interactive slicers
+- What-If parameter used for dynamic plan targets (disconnected table)
 
 ## Data Source
 Relational database designed and populated manually.
